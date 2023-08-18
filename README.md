@@ -1,0 +1,5 @@
+- 👤 Olá me chamo Enzo Gustavo.
+- 😈 Sou estudante da EETEPA.
+- 😬 Faço curso de Técnico em Informática.
+- 🤑 Meu interesse profissional é ter minha própria empresa.
+- ✌️ Atualmente estou apredendo HTML e CSS.
